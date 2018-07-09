@@ -1,0 +1,10 @@
+html, body {
+    background: #444444;
+    color: #DDDDDD;
+}
+    .words{font-size: 40px;  
+            letter-spacing: 10px;  
+            position: absolute;  
+            top:50%;  
+            left: 30%;}  
+    .imgw{position: relative;}  
